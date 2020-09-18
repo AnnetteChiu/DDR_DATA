@@ -1,5 +1,6 @@
 ## Welcome to GitHub Pages
 
+This is the project website: 
 You can use the [editor on GitHub](https://github.com/AnnetteChiu/DDR_DATA/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -26,7 +27,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://docs.google.com/document/d/1nOadoTU2YxaevYkYJpwsabKDq06GyWiE0W6nnG-Uf7M/edit#heading=h.rgkeq9ni0b80).
 
 ### Jekyll Themes
 
